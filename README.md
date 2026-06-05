@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animation de titre avec dégradé bleu -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0066FF&center=true&vCenter=true&width=600&lines=👋+Salut%2C+c'est+Siakha+KABA;Ingénieur+Cloud+%26+DevOps;Spécialiste+Réseaux+%26+Sécurité;Passionné+par+l'Innovation!" alt="Typing SVG" />
+<!-- Animation de titre avec effet de typing - mots qui s'écrivent un par un -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=👋+Bonjour%2C+c'est+Siakha+KABA;💼+Ingénieur+Cloud+%26+DevOps;🔒+Spécialiste+Réseaux+%26+Sécurité;🚀+Passionné+par+l'Innovation+Tech;☁️+Expert+AWS+%26+Kubernetes;🛡️+DevSecOps+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
