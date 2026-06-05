@@ -46,31 +46,30 @@ Spécialisé en infrastructures réseau, cybersécurité et architectures cloud 
 
 **Focus actuel :** Déploiement d'applications Full-Stack sur AWS avec pipelines CI/CD, automatisation IaC et monitoring avancé.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Stack Technique
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, VPC, IAM, RDS, Lambda, CloudWatch, ELB, Auto Scaling, Route 53)
+- AWS
 - Docker
 - Kubernetes
 - Jenkins
+- SonarQube
+- Git
+- GitHub
 - Terraform
 - CloudFormation
-- SonarQube
-- Git / GitHub / GitLab
 
-### 🔒 Sécurité & Réseaux
-- Cisco (ASA, Routeurs, Switches)
+### 🖥️ Réseaux & Systèmes
+- Linux
+- Cisco
 - Kali Linux
 - pfSense
 - Wireshark
 - Nmap
 - Nessus
 - Metasploit
-- Snort (IDS/IPS)
-- VPN (IPSec, SSL)
-- Protocoles : TCP/IP, VLAN, OSPF, BGP, EIGRP, MPLS, QoS
 
 ### 📊 Monitoring
 - Prometheus
@@ -80,50 +79,47 @@ Spécialisé en infrastructures réseau, cybersécurité et architectures cloud 
 - ELK Stack
 
 ### 💻 Développement Web
-- React.js
+- React
 - Node.js
-- Express.js
-- MongoDB
 - JavaScript
+- MongoDB
 - HTML5
 - CSS3
+- PHP
 - MySQL
 - PostgreSQL
-- Python
-- Bash
-- PowerShell
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🚀 Projets Phares
 
-### 🌐 Déploiement Application Full-Stack MERN sur AWS
-Application MERN Stack déployée sur AWS avec architecture hautement disponible, pipeline CI/CD complet et monitoring avancé.  
-`AWS` `React` `Node.js` `MongoDB` `Docker` `Jenkins` `Terraform` `CloudWatch`
-
 ### ☸️ Orchestration Kubernetes
-Architecture microservices sur cluster Kubernetes avec Ingress NGINX, health checks, gestion des secrets, et auto-scaling HPA.  
-`Kubernetes` `Helm` `Ingress` `HPA` `Prometheus` `Grafana`
+Configuration Kubernetes avec Ingress NGINX, health checks, gestion des secrets, et auto-scaling HPA.  
+`Kubernetes` `Ingress` `HPA` `NGINX`
 
-### 🔐 Architecture Cloud Sécurisée Multi-Tiers AWS
-Infrastructure AWS hautement sécurisée avec VPC multi-tiers, segmentation réseau, et bonnes pratiques IAM.  
-`VPC` `EC2` `IAM` `Security Groups` `WAF` `Terraform`
+### 📊 Monitoring CloudWatch
+Supervision AWS avec analyse de logs, détection d'anomalies et remédiation automatisée via Lambda.  
+`CloudWatch` `Lambda` `SNS` `Logs`
 
-### 🔄 Pipeline CI/CD Automatisé
+### 🏗️ Architecture AWS Multi-Tiers
+Infrastructure cloud sécurisée avec VPC, sous-réseaux publics/privés, segmentation réseau et bonnes pratiques IAM.  
+`VPC` `EC2` `IAM` `Security Groups`
+
+### 🔄 Pipeline CI/CD
 Automatisation complète du cycle de vie applicatif (build, test, analyse qualité, déploiement) via pipeline CI/CD conteneurisé.  
-`Jenkins` `Docker` `SonarQube` `GitLab CI` `GitHub Actions`
+`Jenkins` `Docker` `SonarQube` `CI/CD`
 
-### 🛡️ Audit Sécurité Infrastructure Réseau
-Audit de sécurité complet (50 postes) avec scan de vulnérabilités, pentests, et rapport de remédiation conforme ANSSI.  
-`Kali Linux` `Nessus` `Nmap` `Metasploit` `Wireshark` `Cisco ASA`
+### 💾 Backups AWS Automatisés
+Sauvegardes planifiées automatisées avec gestion de notifications et déclencheurs serverless.  
+`Lambda` `EventBridge` `S3` `SNS`
 
-### 🔒 Architecture Sécurité VPN IPSec & IDS
-Interconnexion sécurisée de sites distants avec pare-feux, VPN IPSec site-to-site et système de détection d'intrusion Snort.  
-`IPSec` `Cisco ASA` `pfSense` `Snort` `GNS3`
+### 🐳 Portfolio Fullstack Dockerisé
+Application React/Node.js/MongoDB conteneurisée utilisée comme support de déploiement CI/CD.  
+`React` `Node.js` `MongoDB` `Docker`
 
-### 📊 Monitoring & Supervision AWS
-Supervision AWS avec analyse de logs, détection d'anomalies et remédiation automatisée via Lambda et CloudWatch.  
-`CloudWatch` `Lambda` `SNS` `EventBridge`
+### 🛡️ Audit Sécurité Réseau
+Audit de sécurité complet avec scan de vulnérabilités, pentests et rapport de remédiation conforme ANSSI.  
+`Kali Linux` `Nessus` `Nmap` `Metasploit` `Cisco ASA`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
