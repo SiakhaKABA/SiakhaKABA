@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-```
+```yaml
 Nom          : Siakha KABA
 Localisation : 📍 Dakar, Sénégal
 Rôle         : Ingénieur Réseaux & Sécurité (en formation Cloud & DevOps)
