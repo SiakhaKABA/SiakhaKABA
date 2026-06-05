@@ -1,20 +1,34 @@
 <div align="center">
 
-<!-- Animation de titre avec effet de typing - mots qui s'écrivent un par un -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=👋+Bonjour%2C+c'est+Siakha+KABA;💼+Ingénieur+Cloud+%26+DevOps;🔒+Spécialiste+Réseaux+%26+Sécurité;🚀+Passionné+par+l'Innovation+Tech;☁️+Expert+AWS+%26+Kubernetes;🛡️+DevSecOps+Enthusiast" alt="Typing SVG" />
+<!-- Banner avec vague bleue animée -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=150&section=header" />
 
-<br/>
+<!-- Animation de typing avec les mots qui s'écrivent -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Bonjour%2C+c'est+Siakha+KABA;Ing%C3%A9nieur+Cloud+%26+DevOps;Sp%C3%A9cialiste+R%C3%A9seaux+%26+S%C3%A9curit%C3%A9;Passionn%C3%A9+par+l'Innovation;Expert+AWS+%26+Kubernetes;DevSecOps+Engineer" alt="Typing SVG" />
+</h1>
 
-<!-- Badges avec thème bleu -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siakha-kaba)
-[![Email](https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siakha.kaba49@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiakhaKABA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siakhakaba.dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiakhaKABA&label=Visiteurs&color=0066FF&style=for-the-badge" alt="Visiteurs" />
+</p>
 
-<br/>
+<!-- Badges sociaux avec thème bleu -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/siakha-kaba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:siakha.kaba49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SiakhaKABA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+221772000813">
+    <img src="https://img.shields.io/badge/Phone-0066FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 
-<!-- Banner avec vague bleue -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header&text=Ingénieur%20Cloud%20%26%20DevOps&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+<h3 align="center">☁️ Ingénieur Cloud & DevOps | 🔒 Spécialiste Réseaux et Sécurité | 🚀 AWS & Kubernetes</h3>
 
 </div>
 
