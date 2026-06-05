@@ -5,12 +5,8 @@
 
 <!-- Animation de typing avec les mots qui s'écrivent -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Bonjour%2C+c'est+Siakha+KABA;Ing%C3%A9nieur+Cloud+%26+DevOps;Sp%C3%A9cialiste+R%C3%A9seaux+%26+S%C3%A9curit%C3%A9;Passionn%C3%A9+par+l'Innovation;Expert+AWS+%26+Kubernetes;DevSecOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Bonjour%2C+c'est+Siakha+KABA;Ing%C3%A9nieur+R%C3%A9seaux+%26+S%C3%A9curit%C3%A9;Passionn%C3%A9+par+l'Innovation" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiakhaKABA&label=Visiteurs&color=0066FF&style=for-the-badge" alt="Visiteurs" />
-</p>
 
 <!-- Badges sociaux avec thème bleu -->
 <p align="center">
@@ -28,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">☁️ Ingénieur Cloud & DevOps | 🔒 Spécialiste Réseaux et Sécurité | 🚀 AWS & Kubernetes</h3>
+<h3 align="center">💻 Ingénieur Informatique | 🔒 Spécialiste Réseaux et Sécurité | 🚀 AWS</h3>
 
 </div>
 
@@ -39,8 +35,8 @@
 Ingénieur en réseaux et sécurité en transition vers le **Cloud et DevOps**. Actuellement en formation **AWS re/Start** à l'Orange Digital Center (ODC), je combine une expertise solide en infrastructures réseau, cybersécurité et compétences Cloud modernes (AWS, Docker/Kubernetes, Terraform, Jenkins).
 
 - 🔭 Je travaille actuellement sur : **Déploiement d'applications Full-Stack MERN sur AWS avec CI/CD**
-- 🌱 J'apprends : **AWS Solutions Architect, Kubernetes avancé, Terraform IaC**
-- 🎯 Objectif 2026 : **AWS Solutions Architect Associate & Certified Kubernetes Administrator**
+- 🌱 J'apprends : **AWS Practitioner et la Culture DevOps**
+- 🎯 Objectif 2026 : **AWS Cloud Practitioner & Maîtrise des pratiques DevOps**
 - 💼 Je recherche : **Ingénieur Cloud/DevOps** ou **Ingénieur Systèmes et Réseaux**
 - 📍 Localisation : **Dakar, Sénégal**
 - ⚡ Passion : **Cloud Computing, DevSecOps, Automatisation, CTF/Bug Bounty**
@@ -156,13 +152,31 @@ Interconnexion sécurisée de sites distants avec détection d'intrusion
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  
-<!-- Statistiques GitHub avec thème bleu -->
-<img src="https://github-readme-stats.vercel.app/api?username=SiakhaKABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0066FF&icon_color=0066FF&text_color=ffffff" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiakhaKABA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=ffffff" alt="Top Languages" />
+<!-- Compteur de visiteurs remis à 0 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiakhaKABA&label=Visiteurs&color=0066FF&style=for-the-badge&base=0" alt="Visiteurs du Profil" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiakhaKABA&theme=tokyonight&hide_border=true&background=0D1117&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakLabel=0066FF" alt="GitHub Streak" />
+<!-- Statistiques GitHub avec design amélioré et thème bleu -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SiakhaKABA&show_icons=true&theme=transparent&hide_border=true&title_color=0066FF&icon_color=0066FF&text_color=333333&bg_color=ffffff" alt="GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiakhaKABA&theme=transparent&hide_border=true&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakLabel=0066FF&background=ffffff&sideLabels=333333&dates=333333" alt="GitHub Streak" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiakhaKABA&layout=compact&theme=transparent&hide_border=true&title_color=0066FF&text_color=333333&bg_color=ffffff" alt="Langages les plus utilisés" width="500"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Graphique d'activité GitHub -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiakhaKABA&theme=react-dark&bg_color=ffffff&color=0066FF&line=0066FF&point=0066FF&area=true&hide_border=true" alt="Graphique d'activité GitHub" width="100%"/>
 
 </div>
 
@@ -190,8 +204,6 @@ Interconnexion sécurisée de sites distants avec détection d'intrusion
 <div align="center">
 
 ### ⭐ Si vous aimez mes projets, n'hésitez pas à les star !
-
-![Profile Views](https://komarev.com/ghpvc/?username=SiakhaKABA&color=0066FF&style=for-the-badge&label=Visiteurs+du+Profil)
 
 <!-- Animation de footer avec vague bleue -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" />
