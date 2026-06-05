@@ -50,76 +50,121 @@ Spécialisé en infrastructures réseau, cybersécurité et architectures cloud 
 
 ## 🛠️ Stack Technique
 
-### ☁️ Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- SonarQube
-- Git
-- GitHub
-- Terraform
-- CloudFormation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🖥️ Réseaux & Systèmes
-- Linux
-- Cisco
-- Kali Linux
-- pfSense
-- Wireshark
-- Nmap
-- Nessus
-- Metasploit
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### 📊 Monitoring
-- Prometheus
-- Grafana
-- CloudWatch
-- Nagios
-- ELK Stack
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Réseaux & Systèmes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ### 💻 Développement Web
-- React
-- Node.js
-- JavaScript
-- MongoDB
-- HTML5
-- CSS3
-- PHP
-- MySQL
-- PostgreSQL
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Projets Phares
 
-### ☸️ Orchestration Kubernetes
-Configuration Kubernetes avec Ingress NGINX, health checks, gestion des secrets, et auto-scaling HPA.  
-`Kubernetes` `Ingress` `HPA` `NGINX`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Monitoring CloudWatch
-Supervision AWS avec analyse de logs, détection d'anomalies et remédiation automatisée via Lambda.  
-`CloudWatch` `Lambda` `SNS` `Logs`
+**☸️ Orchestration Kubernetes**  
+Configuration Kubernetes avec Ingress NGINX, health checks, gestion des secrets, et auto-scaling HPA.
 
-### 🏗️ Architecture AWS Multi-Tiers
-Infrastructure cloud sécurisée avec VPC, sous-réseaux publics/privés, segmentation réseau et bonnes pratiques IAM.  
-`VPC` `EC2` `IAM` `Security Groups`
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ingress](https://img.shields.io/badge/Ingress-NGINX-009639?style=flat-square)
+![HPA](https://img.shields.io/badge/HPA-Auto--Scaling-blue?style=flat-square)
 
-### 🔄 Pipeline CI/CD
-Automatisation complète du cycle de vie applicatif (build, test, analyse qualité, déploiement) via pipeline CI/CD conteneurisé.  
-`Jenkins` `Docker` `SonarQube` `CI/CD`
+---
 
-### 💾 Backups AWS Automatisés
-Sauvegardes planifiées automatisées avec gestion de notifications et déclencheurs serverless.  
-`Lambda` `EventBridge` `S3` `SNS`
+**📊 Monitoring CloudWatch**  
+Supervision AWS avec analyse de logs, détection d'anomalies et remédiation automatisée via Lambda.
 
-### 🐳 Portfolio Fullstack Dockerisé
-Application React/Node.js/MongoDB conteneurisée utilisée comme support de déploiement CI/CD.  
-`React` `Node.js` `MongoDB` `Docker`
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-Notifications-orange?style=flat-square)
 
-### 🛡️ Audit Sécurité Réseau
-Audit de sécurité complet avec scan de vulnérabilités, pentests et rapport de remédiation conforme ANSSI.  
-`Kali Linux` `Nessus` `Nmap` `Metasploit` `Cisco ASA`
+---
+
+**🏗️ Architecture AWS Multi-Tiers**  
+Infrastructure cloud sécurisée avec VPC, sous-réseaux publics/privés, segmentation réseau et bonnes pratiques IAM.
+
+![VPC](https://img.shields.io/badge/VPC-Network-232F3E?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-Compute-FF9900?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-Security-red?style=flat-square)
+
+---
+
+**🔄 Pipeline CI/CD**  
+Automatisation complète du cycle de vie applicatif (build, test, analyse qualité, déploiement) via pipeline CI/CD conteneurisé.
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**💾 Backups AWS Automatisés**  
+Sauvegardes planifiées automatisées avec gestion de notifications et déclencheurs serverless.
+
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-Storage-569A31?style=flat-square)
+![EventBridge](https://img.shields.io/badge/EventBridge-Scheduler-purple?style=flat-square)
+
+---
+
+**🐳 Portfolio Fullstack Dockerisé**  
+Application React/Node.js/MongoDB conteneurisée utilisée comme support de déploiement CI/CD.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+**🛡️ Audit Sécurité Réseau**  
+Audit de sécurité complet avec scan de vulnérabilités, pentests et rapport de remédiation conforme ANSSI.
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Scanner-green?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-red?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco_ASA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
