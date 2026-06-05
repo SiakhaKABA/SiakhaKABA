@@ -1,18 +1,26 @@
 <div align="center">
-  
-# 👋 Salut, je suis Siakha KABA
 
+<!-- Animation de titre avec dégradé bleu -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0066FF&center=true&vCenter=true&width=600&lines=👋+Salut%2C+c'est+Siakha+KABA;Ingénieur+Cloud+%26+DevOps;Spécialiste+Réseaux+%26+Sécurité;Passionné+par+l'Innovation!" alt="Typing SVG" />
+
+<br/>
+
+<!-- Badges avec thème bleu -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siakha-kaba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siakha.kaba49@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siakha-kaba)
+[![Email](https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siakha.kaba49@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiakhaKABA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siakhakaba.dev)
 
-### 🚀 Ingénieur Cloud & DevOps | Spécialiste Réseaux et Sécurité
+<br/>
+
+<!-- Banner avec vague bleue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header&text=Ingénieur%20Cloud%20%26%20DevOps&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 À propos de moi
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> À propos de moi
 
 Ingénieur en réseaux et sécurité en transition vers le **Cloud et DevOps**. Actuellement en formation **AWS re/Start** à l'Orange Digital Center (ODC), je combine une expertise solide en infrastructures réseau, cybersécurité et compétences Cloud modernes (AWS, Docker/Kubernetes, Terraform, Jenkins).
 
@@ -23,9 +31,9 @@ Ingénieur en réseaux et sécurité en transition vers le **Cloud et DevOps**. 
 - 📍 Localisation : **Dakar, Sénégal**
 - ⚡ Passion : **Cloud Computing, DevSecOps, Automatisation, CTF/Bug Bounty**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Stack Technique
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Stack Technique
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -75,9 +83,9 @@ Ingénieur en réseaux et sécurité en transition vers le **Cloud et DevOps**. 
 
 **Monitoring** : Nagios, Prometheus, Grafana, CloudWatch
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Projets Phares
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Projets Phares
 
 ### 🌐 [Déploiement Application Full-Stack MERN sur AWS](https://github.com/siakha-kaba/aws-mern-deployment)
 Application MERN Stack déployée sur AWS avec architecture hautement disponible et sécurisée
@@ -113,9 +121,9 @@ Interconnexion sécurisée de sites distants avec détection d'intrusion
 - ✅ IDS Snort avec règles de filtrage avancées
 - 🛠️ **Tech** : Cisco ASA, pfSense, IPSec, Snort, GNS3
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📜 Certifications & Formations
+## 🏆 Certifications & Formations
 
 ### 🎓 Formations
 - **AWS re/Start Program** - Cloud Computing & DevOps | Orange Digital Center (ODC) | *2025-2026*
@@ -129,30 +137,31 @@ Interconnexion sécurisée de sites distants avec détection d'intrusion
 - ✅ **Analyste Cybersécurité** - Force-N/UNCHK
 - ✅ **Cybersecurity Essentials** - Cisco Networking Academy
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siakha-kaba&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- Statistiques GitHub avec thème bleu -->
+<img src="https://github-readme-stats.vercel.app/api?username=SiakhaKABA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0066FF&icon_color=0066FF&text_color=ffffff" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siakha-kaba&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiakhaKABA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0066FF&text_color=ffffff" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siakha-kaba&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiakhaKABA&theme=tokyonight&hide_border=true&background=0D1117&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakLabel=0066FF" alt="GitHub Streak" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Me Contacter
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-siakha.kaba49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siakha.kaba49@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+221_77_200_08_13-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221772000813)
+[![Email](https://img.shields.io/badge/Email-siakha.kaba49@gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siakha.kaba49@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+221_77_200_08_13-0066FF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221772000813)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siakha_KABA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siakha-kaba)
-[![Location](https://img.shields.io/badge/Location-Dakar,_Sénégal-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dakar,Senegal)
+[![Location](https://img.shields.io/badge/Location-Dakar,_Sénégal-0066FF?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dakar,Senegal)
 
 </div>
 
@@ -168,8 +177,15 @@ Interconnexion sécurisée de sites distants avec détection d'intrusion
 
 ### ⭐ Si vous aimez mes projets, n'hésitez pas à les star !
 
-![Profile Views](https://komarev.com/ghpvc/?username=siakha-kaba&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SiakhaKABA&color=0066FF&style=for-the-badge&label=Visiteurs+du+Profil)
+
+<!-- Animation de footer avec vague bleue -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" />
 
 **💼 Ouvert aux opportunités : Ingénieur Cloud/DevOps | Ingénieur Systèmes et Réseaux**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌟 *"Transformons ensemble les infrastructures de demain !"*
 
 </div>
